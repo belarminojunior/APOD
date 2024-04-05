@@ -1,4 +1,5 @@
-const URL = "https://api.nasa.gov/planetary/apod?api_key=d9gYkzMUdlSUtQbl23KFi13MZO6y4AXkxdvqjofl";
+const URL =
+  "https://api.nasa.gov/planetary/apod?api_key=d9gYkzMUdlSUtQbl23KFi13MZO6y4AXkxdvqjofl";
 
 const notFound = document.querySelector(".not-found");
 const notFoundMessage = document.querySelector(".not-found h1");
