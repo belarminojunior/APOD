@@ -21,7 +21,7 @@ This project is heavily inspired by NASA's APOD website ([https://apod.nasa.gov/
 
 ### Demo
 
-[Desktop View](./assets/img/demo.png)
+![](./assets/img/demo.png)
 
 ### Live Demo
 
